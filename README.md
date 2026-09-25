@@ -121,3 +121,7 @@ before publishing, or swap in the license of your choice).
 
 The `ttfchart.py` source and this README were generated with the assistance
 of Claude (Anthropic).
+
+## Homepage
+
+https://github.com/iamontheweb/ttfchart
